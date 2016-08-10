@@ -19,3 +19,8 @@ CroquetBoard is a message board representation of a popular Croquet email list. 
   - [ ] Instructions on how to register for Nottingham Board (NB)
   - [ ] Can start new topics which sends email to NB (requires membership to actual NB email list)
   - [ ] Can add comments which sends reply to NB
+
+  ## Design Docs
+  * [View Wireframes][views]
+
+  [views]: https://wireframe.cc/uu5p72
