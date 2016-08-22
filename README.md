@@ -34,7 +34,7 @@ CroquetBoard is a message board representation of a popular Croquet email list. 
 - [ ] learn Ruby mail gem and setup POP server access
 - [ ] communicate with Nottingham Board admin for permissions
 - [ ] setup 'Email' model
-- setup 'User' model
+- [ ] setup 'User' model
 
 ### Phase 2: Board Creation (3 days)
 - [ ] build API for board topics and comments
